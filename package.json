@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "dependencies": {
     "antd": "^2.9.0",
-    "axios": "^0.16.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.23.0",
     "react": "^15.4.2",
     "react-custom-scrollbars": "^4.0.2",
